@@ -1,0 +1,1 @@
+I'm being diligent and working through ALL the chapters in the Odin Project
